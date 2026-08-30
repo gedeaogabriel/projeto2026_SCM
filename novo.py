@@ -1,1 +1,1 @@
-print("mudançarealizada10:50")
+mudança realiazada 10:50
